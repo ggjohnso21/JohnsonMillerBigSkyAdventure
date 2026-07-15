@@ -1,7 +1,7 @@
 {
   "name": "Johnson & Miller Big Sky Adventure",
   "short_name": "Big Sky",
-  "description": "Johnson & Miller family Montana vacation guide for July 31\u2013August 6, 2026.",
+  "description": "Family Montana vacation guide for July 31\u2013August 6, 2026.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

@@ -1,26 +1,23 @@
-Johnson & Miller Big Sky Adventure PWA
+JOHNSON & MILLER BIG SKY ADVENTURE — VERSION 1.0
 
-FILES
-- index.html
-- manifest.webmanifest
-- service-worker.js
-- icon-192.png
-- icon-512.png
-- apple-touch-icon.png
-
-IMPORTANT
-A Progressive Web App must be served from HTTPS (or localhost). It will not fully install or work offline when opened directly as a file attachment.
-
-EASIEST HOSTING
-1. Unzip this folder.
-2. Drag the entire folder contents into Netlify Drop.
-3. Share the resulting HTTPS link.
+HOSTING WITH GITHUB PAGES
+1. Create a new public GitHub repository.
+2. Upload all files from this folder to the repository root.
+3. Go to Settings > Pages.
+4. Choose Deploy from a branch.
+5. Select main and /(root), then Save.
+6. Share the published HTTPS link.
 
 INSTALL ON IPHONE
-1. Open the hosted link in Safari.
-2. Tap Share.
-3. Tap Add to Home Screen.
+Open the hosted site in Safari > Share > Add to Home Screen.
 
 INSTALL ON ANDROID
-1. Open the hosted link in Chrome.
-2. Tap Install App when prompted, or use the browser menu.
+Open the hosted site in Chrome > Install App.
+
+FILES
+index.html
+manifest.webmanifest
+service-worker.js
+icon-192.png
+icon-512.png
+apple-touch-icon.png

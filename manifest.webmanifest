@@ -1,13 +1,11 @@
 {
   "name": "Johnson & Miller Big Sky Adventure",
   "short_name": "Big Sky",
-  "description": "Family Montana vacation guide for July 31\u2013August 6, 2026.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#fbf8ef",
   "theme_color": "#143c35",
-  "orientation": "portrait-primary",
   "icons": [
     {
       "src": "icon-192.png",

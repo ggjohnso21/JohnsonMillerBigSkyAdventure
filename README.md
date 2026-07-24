@@ -8,3 +8,6 @@ Upload every file in this folder to the root of your existing GitHub Pages repos
 4. GitHub Pages republishes automatically.
 
 The site includes a public trip itinerary and confirmation numbers.
+
+## Version 3 update
+- Added Monday, August 3 golf tee time at Wilderness Club at 7:40 AM.
